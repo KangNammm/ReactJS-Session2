@@ -1,0 +1,6 @@
+.modal{
+    display: block !important;
+}
+.fade:not(.show){
+    opacity: 1;
+}
